@@ -1,3 +1,2 @@
-# health-check
-I am editing the README file. Adding some more details about the
-project description.
+# Daily-codes
+This is repo that store the codes I think could be useful and instructive
